@@ -5,7 +5,7 @@
 ]]
 
 -- ▼ ЕДИНСТВЕННОЕ место, которое нужно отредактировать после публикации на GitHub ▼
-local DEFAULT_BASE = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/"
+local DEFAULT_BASE = "https://raw.githubusercontent.com/CherryWebCmp/AdoptMeScript/main/"
 -- ▲ (можно вместо этого задать getgenv().AU_BASE перед запуском) ▲
 
 local VERSION = "1.0.0"
